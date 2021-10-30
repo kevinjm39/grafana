@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@grafana/data": "8.1.0-pre",
-    "@grafana/e2e-selectors": "8.1.0-pre",
+    "@grafana/e2e-selectors": "8.2.0",
     "@grafana/ui": "8.1.0-pre",
     "history": "4.10.1",
     "systemjs": "0.20.19",
